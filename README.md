@@ -1,8 +1,5 @@
 # How-To-Read-Avro-Files
-Files and code to accompany a Medium article I wrote on helping data analysts use Avro files.
-
-## Get files
-Follow along by downloading these sample avro files (from Azure blob storage). 
+Files and code to accompany a Medium article I wrote on helping data analysts use Avro files. Follow along by downloading these sample avro files (from Azure blob storage). 
 
 | File        |       Size |        Rows |
 | ----------- | ----------- | ----------- |
