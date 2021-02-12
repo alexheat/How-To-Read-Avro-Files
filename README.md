@@ -1,6 +1,9 @@
 # How-To-Read-Avro-Files
 Files and code to accompany a Medium article I wrote on helping data analysts use Avro files.
 
+## Get files
+Follow along by downloading these sample avro files (from Azure blob storage). 
+
 | File        |       Size |        Rows |
 | ----------- | ----------- | ----------- |
 | [edgar_small.avro](https://alexheat.blob.core.windows.net/avro/edgar_small.avro)      | 2.52 MiB       | 236,776       |
